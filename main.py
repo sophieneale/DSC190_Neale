@@ -1,6 +1,6 @@
 def main():
     x = 1
-    print("Hello from dsc190-neale!")
+    print(f"Hello from dsc190-neale!{x}")
 
 def foo(a):
     return a
