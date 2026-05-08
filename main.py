@@ -1,11 +1,9 @@
-import os
-
 def main():
-    x=1
+    x = 1
     print("Hello from dsc190-neale!")
 
 def foo(a):
-    return a,b
+    return a
 
 if __name__ == "__main__":
     main()
